@@ -40,7 +40,24 @@
    <div>
         
    </div>
+   
+body{
+   padding: 50px 0;
+}
+.container{
+    padding:0 50px; 
+    background: #ffffff;
+    
+}
+.black{
+    background: #ffffff;
+    color: rgb(0, 0, 0);
 
+}
+.green{
+    color: rgb(31, 226, 31);
+    background: #ffffff;
+}
    
 
 
